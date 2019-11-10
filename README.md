@@ -8,7 +8,7 @@ My name is Joana and I am a software developer living in Lisbon.
 
 When I enter on the IT world, I was expecting clowns 🤡 but instead I got computers 🖥 . 
 
-It was hard in the beginning, I had worked with a computer before but it is very different from knowing how to program. And because it was hard on the beginning, I decided to go to sysadmin, networking and security jobs. But then I realised that I was missing programming. 
+It was hard in the beginning, I had worked with a computer before start University but this didn't helped me, it was very different from knowing how to program. And because it was hard on the beginning, I decided to go to sysadmin, networking and security jobs. But then I realised that I was missing programming. 
 
 So I took the initiative to start to study on my free time, focusing my attention on front end. It wasn’t easy but I finally made it and I got a front end position and I was recognised as a software developer. But now I need more, I need to become a full stack developer. 
 
