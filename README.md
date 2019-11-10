@@ -21,7 +21,7 @@ Let’s the games begin;
 The purpose of this repositiry is to document my studying path through 3 stacks:
  - .Net
  - Java
- - Javascript
+ - Javascript - always pushing forward towards functional programming.
 
 ## Wish List Path
 
