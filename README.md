@@ -16,6 +16,13 @@ So I need to grow again and because of that I need to learn and practice.
 
 Let’s the games begin;
 
+## Purpose
+
+The purpose of this repositiry is to document my studying path through 3 stacks:
+ - .Net
+ - Java
+ - Javascript
+
 ## Wish List Path
 
 - Building a Service,
