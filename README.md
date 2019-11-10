@@ -21,7 +21,7 @@ Let’s the games begin;
 The purpose of this repositiry is to document my studying path through 3 stacks:
  - .Net
  - Java
- - Javascript - always pushing forward towards functional programming.
+ - Javascript - always pushing forward towards functional programming. [Reference](https://codeburst.io/a-beginner-friendly-intro-to-functional-programming-4f69aa109569)
 
 ## Wish List Path
 
