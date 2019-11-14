@@ -26,16 +26,16 @@ The purpose of this repositiry is to document my studying path through 3 stacks:
 ## Wish List Path
 
 - Building a Service,
-- Building a Service and adding authentication,
-- Building a Service and adding MFA authentication,
-- Building a Service with a NoSql Graph Database,
-- Building a Service with a NoSql key-value database(mongodb),
+- Building unit testing for a service,
 - Building a Service with a SQL database,
 - Building a Service and adding CRUD APIs,
+- Building integration testing for a service,
+- Building a Service and adding authentication,
 - Building a service that exports information to a .csv file,
 - Building a service that imports information from a .csv file,
 - Building a servive with a queue system(kafka/rabbitmq),
 - Building a service with a search engine,
-- Building a service and integrating with elasticsearch.
-
-
+- Building a service and integrating with elasticsearch,
+- Building a Service and adding MFA authentication,
+- Building a Service with a NoSql Graph Database,
+- Building a Service with a NoSql key-value database(mongodb),
