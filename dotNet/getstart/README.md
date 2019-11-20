@@ -9,7 +9,7 @@
 It was really fast to do the get start, with some useful information. However, I miss some information about the detail:
 
 File Structure:
-´´´
+```
   | Dependecies
   | Controllers
     | WeatherForecastController.cs
@@ -21,13 +21,12 @@ File Structure:
   | Program.cs
   | Startup.cs
   | WeatherForecast.cs
-´´´
+```
 
-
-File:
-- Dependecies: internal projects, or nugets libraries, or external libraries(native or not). (javascript: /nodes_modules);
-- Controllers: directory where all controllers are kept. Controllers are the classes where the endpoints of the API are implemented;
-- Properties: directory where project properties are kept. Examples, environment settings and launch settings;
+File\Directories description:
+- **Dependecies**: internal projects, or nugets libraries, or external libraries(native or not). (javascript: /nodes_modules);
+- **Controllers**: directory where all controllers are kept. Controllers are the classes where the endpoints of the API are implemented;
+- **Properties**: directory where project properties are kept. Examples, environment settings and launch settings;
 - appsettings.json: app configurations according to environment;
 - Program.cs: main of the project;
 - Startup.cs: class where there application is configured, here you can add configuration for authentication, routing, authorization, dependency injection;
