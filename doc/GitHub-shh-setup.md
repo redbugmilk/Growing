@@ -23,11 +23,12 @@ Copy the public key:
 ```
 pbcopy < ~/.ssh/id_rsa_heroes.pub
 ```
+
 ## On GitHub
 Go to Settings > SSH and GPG keys and create a *New SSH key*
 Give a meaningful name, paste the public key and press *Add SSH key*
 
-## On Mac
+## On your computer
 
 Update ssh configuration file:
 
