@@ -44,6 +44,10 @@ Host github.com-heroes
 	User git
 	IdentityFile ~/.ssh/id_rsa_heroes
 ```
+Add ssh key:
+```
+ssh-add -K ~/.ssh/id_rsa_heroes
+```
 
 Configured your local account:
 ```
